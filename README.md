@@ -1,1 +1,1 @@
-# Frontend-Project-Directory-Structure
+# HW1_Frontend-Project-Directory-Structure
